@@ -1,0 +1,16 @@
+name: Data model change
+description: Propose ingestion/model changes aligned to Core
+title: "[Data Model] "
+labels: ["data-model"]
+body:
+  - type: textarea
+    attributes:
+      label: Change
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Core schema alignment
+      description: Which DiamondOps-Core schemas are involved?
+    validations:
+      required: true
