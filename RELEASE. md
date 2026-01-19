@@ -1,0 +1,15 @@
+# Release Process (YieldOS)
+
+## Core Compatibility
+Pin adopted DiamondOps-Core version here:
+- Core compatibility: v0.1.x
+
+## Versioning
+- PATCH: docs and dashboard spec updates
+- MINOR: additive ingestion specs, new dashboards, optional fields
+- MAJOR: breaking changes to data model expectations
+
+## Release steps
+1. Update ingestion/docs
+2. Ensure all referenced schemas match Core
+3. Tag GitHub Release `vX.Y.Z`
