@@ -3,5 +3,5 @@
   "run_id": "run-0001",
   "status": "ok",
   "generated_at_utc": "2026-01-20T00:00:00Z",
-  "notes": "Smoke test for StegBrain schema validation"
+  "notes": "Smoke test for StegBrain schema validation (PR)"
 }
