@@ -2,6 +2,7 @@
   "event_type": "run_record",
   "run_id": "run-0001",
   "site_id": "site-demo-001",
+  "asset_id": "asset-demo-001",
   "status": "ok",
   "generated_at_utc": "2026-01-20T00:00:00Z",
   "notes": "Smoke test for StegBrain schema validation"
