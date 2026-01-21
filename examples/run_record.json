@@ -1,6 +1,6 @@
 {
   "run_id": "run-0001",
-  "run_type": "test",
+  "run_type": "maintenance_test",
   "site_id": "site-demo-001",
   "asset_id": "asset-demo-001",
   "status": "success",
