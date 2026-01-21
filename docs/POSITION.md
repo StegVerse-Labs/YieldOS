@@ -1,7 +1,6 @@
-## Position
+# Position Reference
 
-ReactorOps workflows are documentation-only and operate under the
-DiamondOps position and liability boundary.
+This repository inherits its position and liability boundary from DiamondOps.
 
-Authoritative definition:
+Authoritative document:
 DiamondOps/docs/POSITION.md
