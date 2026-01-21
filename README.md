@@ -10,6 +10,8 @@ It turns operational metadata into:
 
 YieldOS is **analytics-first**, not control software.
 
+See [DiamondOps Liability Boundary](../DiamondOps-Core/LIABILITY_BOUNDARY.md).
+
 ---
 
 ## What YieldOS Is
