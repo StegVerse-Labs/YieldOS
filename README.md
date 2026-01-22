@@ -1,3 +1,5 @@
+[![DiamondOps-Core Canonicals](https://github.com/stegverse-labs/stegdb/actions/workflows/sync-diamondops-core-canonicals.yml/badge.svg)](https://github.com/stegverse-labs/stegdb/actions/workflows/sync-diamondops-core-canonicals.yml)
+
 ## Scope & Responsibility
 
 YieldOS aggregates validated records for reporting and analysis.
